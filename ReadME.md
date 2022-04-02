@@ -1,4 +1,4 @@
-# Welcome to Rezume - a free Resume Generator
+# Welcome to Rezume - a free Resume Generator(Meghna)
 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/CatsInTech/Rezume/issues) [![GitHub stars](https://img.shields.io/github/stars/CatsInTech/Rezume.svg?logo=github)](https://github.com/CatsInTech/Rezume/stargazers) [![GitHub forks](https://img.shields.io/github/forks/CatsInTech/Rezume.svg?logo=github&color=teal)](https://github.com/CatsInTech/Rezume/network) [![GitHub top language](https://img.shields.io/github/languages/top/CatsInTech/Rezume?color=yellow&logo=javascript)](https://github.com/CatsInTech/Rezume) 
 
